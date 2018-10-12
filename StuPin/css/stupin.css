@@ -1,0 +1,70 @@
+body
+{
+	background-color: #DCDCDC;
+}
+
+#local
+{
+	width: 75%;
+	margin: auto;
+	border-width: 5px;
+	/*border-color: #000000;*/
+	background-color: #C0C0C0;
+}
+
+#demo
+{
+	font-size: 30px;
+	padding-left: 150px;
+}
+
+#demo1
+{
+	font-size: 25px;
+	padding-left: 250px;
+    color: red;	
+    /*text-align: center;*/
+}
+
+#pinNum
+{
+	font-size: 30px;
+	padding-left: 2px;
+	border-left: 30px;
+	margin-left: 500px;
+}
+
+#likebutton
+{
+	display: block;
+    width: 150px;
+    height: 30px;
+    background: #696969;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 600px;
+    text-decoration: none;
+}
+
+#likebutton1
+{
+	display: block;
+    width: 150px;
+    height: 30px;
+    background: #696969;
+    padding: 10px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 600px;
+    text-decoration: none;
+}
+
