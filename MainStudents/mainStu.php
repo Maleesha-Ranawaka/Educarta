@@ -111,12 +111,12 @@
 
 		<script>
 			var config = {
-						    apiKey: "AIzaSyBd73sFTJWylG4llU0Jjge4Q3jxByAdrwY",
-						    authDomain: "loginauth-44df8.firebaseapp.com",
-						    databaseURL: "https://loginauth-44df8.firebaseio.com",
-						    projectId: "loginauth-44df8",
-						    storageBucket: "loginauth-44df8.appspot.com",
-						    messagingSenderId: "41999250499"
+						    apiKey: "",
+						    authDomain: "",
+						    databaseURL: "",
+						    projectId: "",
+						    storageBucket: "",
+						    messagingSenderId: ""
 						  };
 						  firebase.initializeApp(config);
 		</script>
